@@ -2,7 +2,11 @@ body {
     margin: 0%;
     background-color: #e5fcdc;
 }
+.card-image{
+    width: 50vw;
+    height: 100vh;
 
+}
 .card-body {
 
     position: fixed;
